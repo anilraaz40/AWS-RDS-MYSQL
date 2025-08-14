@@ -88,7 +88,9 @@ Copy the Endpoint (e.g., mydb.xxxxxx.ap-south-1.rds.amazonaws.com) and note the 
 </pre>
 <p>Enter your RDS password when prompted.</p>
 <p>If connection is successful, you’ll get the MySQL prompt:</p>
-
+<pre>
+mysql>
+</pre>
 ## 4. Test the Connection
 ### Inside MySQL prompt:
 <pre>
